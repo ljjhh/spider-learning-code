@@ -25,4 +25,3 @@ with open('film.txt','w',encoding='gbk') as f:
 
 resp1.close()
 resp2.close()
-1
